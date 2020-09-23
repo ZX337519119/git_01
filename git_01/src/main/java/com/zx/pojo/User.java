@@ -5,4 +5,5 @@ package com.zx.pojo;
  * @date 2020/9/23 11:22
  */
 public class User {
+  private String name;
 }
